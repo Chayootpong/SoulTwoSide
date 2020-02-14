@@ -15,6 +15,9 @@ This game uses Unity to develop by controlling Players must control via Keyboard
 ![](https://i.imgur.com/rguCeR4.png)
 ![](https://i.imgur.com/NCSykrO.png)
 ![](https://i.imgur.com/D4943ch.png)
+![](https://i.imgur.com/xt24q8O.png)
+![](https://i.imgur.com/DrbpOX0.png)
+![](https://i.imgur.com/mdBNfWU.png)
 # Rewards
 - Honorable Mention in National Software Contest (NSC 2017), Entertainment type.
 - Qualified and join SCB Foundation (Torkla) Year 4.
