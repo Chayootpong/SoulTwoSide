@@ -28,7 +28,7 @@ This game uses Unity to develop by controlling Players must control via Keyboard
 # Setup
 Extract .ZIP file and run .EXE file.
 
-1. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQTthHkqIWzQLqIS?e=CgC4m4">[**DOWNLOAD ZIP FILE**]</a>
+1. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOoSJWoZj-npMnSpXw?e=cAxl1E">[**DOWNLOAD ZIP FILE**]</a>
 
 *Note: This game has to play two-player and use joysticks only in this version.*
 # Team Member(s)
