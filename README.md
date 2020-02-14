@@ -8,4 +8,5 @@ In the course of the game, we will be cast into the soul. There are two spirits,
 
 This game uses Unity to develop by controlling Players must control via Keyboard or Joystick and this game is a two-player multiplayer game.
 
-
+![](https://i.imgur.com/XAIOqhk.png)
+![](https://i.imgur.com/gqTQzOL.png)
