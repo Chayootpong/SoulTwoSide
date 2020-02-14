@@ -10,7 +10,8 @@ This game uses Unity to develop by controlling Players must control via Keyboard
 
 ![](https://i.imgur.com/XAIOqhk.png)
 ![](https://i.imgur.com/gqTQzOL.png)
-
+# Video
+[![](https://i.imgur.com/YfJZGdn.jpg)](https://youtu.be/JFTsSYKxpCM)
 # Screenshots
 ![](https://i.imgur.com/rguCeR4.png)
 ![](https://i.imgur.com/NCSykrO.png)
@@ -29,7 +30,7 @@ Extract .ZIP file and run .EXE file.
 
 1. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQTthHkqIWzQLqIS?e=CgC4m4">[**DOWNLOAD ZIP FILE**]</a>
 
-*Note: This game has to play two-player and use joystick only in this version.*
+*Note: This game has to play two-player and use joysticks only in this version.*
 # Team Member(s)
 - Chayootpong Promlee
 - Jittraporn Jitwong
