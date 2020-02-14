@@ -12,6 +12,7 @@ This game uses Unity to develop by controlling Players must control via Keyboard
 ![](https://i.imgur.com/gqTQzOL.png)
 
 # Screenshots
+![](https://i.imgur.com/rguCeR4.png)
 ![](https://i.imgur.com/NCSykrO.png)
 ![](https://i.imgur.com/D4943ch.png)
 # Rewards
