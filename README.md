@@ -12,26 +12,21 @@ This game uses Unity to develop by controlling Players must control via Keyboard
 ![](https://i.imgur.com/gqTQzOL.png)
 
 # Screenshots
-![](https://i.imgur.com/7nf6OSe.jpg)
-![](https://i.imgur.com/JAIo5GS.jpg)
-![](https://i.imgur.com/gT2VlfO.jpg)
-![](https://i.imgur.com/VzpJjEH.jpg)
-![](https://i.imgur.com/EmRMGnz.png)
-![](https://i.imgur.com/BCCxyNL.png)
-![](https://i.imgur.com/hAfXPly.jpg)
+![](https://i.imgur.com/NCSykrO.png)
+![](https://i.imgur.com/D4943ch.png)
 # Rewards
-- Honorable Mention in National Software Contest (NSC 2019), Entertainment type.
-- Qualified and join SCB Foundation (Torkla) Year 7.
+- Honorable Mention in National Software Contest (NSC 2017), Entertainment type.
+- Qualified and join SCB Foundation (Torkla) Year 4.
 # Development Tools
-- Unity Engine (Windows & Android Platform)
+- Unity Engine (Windows Platform)
 - Visual Studio (CSharp)
-- POLYGON 3D Models (Asset Store)
 # Setup
-Extract .ZIP file and run .EXE file in PC and install .APK file on smartphone.
+Extract .ZIP file and run .EXE file.
 
-1. Mobile Controller <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQO_OnbjBmGQkO7H?e=fIOwFv">[**DOWNLOAD APK FILE**]</a> 
-2. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQTthHkqIWzQLqIS?e=CgC4m4">[**DOWNLOAD ZIP FILE**]</a>
+1. Game File <a href="https://1drv.ms/u/s!Ai9z8mPSceQOkQTthHkqIWzQLqIS?e=CgC4m4">[**DOWNLOAD ZIP FILE**]</a>
 
-*Note: This game has to play in the same network (LAN) only.*
+*Note: This game has to play two-player and use joystick only in this version.*
 # Team Member(s)
 - Chayootpong Promlee
+- Jittraporn Jitwong
+- Tawanshine Hongsanan
